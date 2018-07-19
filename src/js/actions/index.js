@@ -6,3 +6,7 @@ export const addArticle = article => ({
 export const deleteArticle = article => ({
   type: "DELETE_ARTICLE"
 });
+
+export const flushArticle = article => ({
+  type: "FLUSH_ARTICLE"
+});

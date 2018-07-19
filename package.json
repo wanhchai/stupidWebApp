@@ -17,8 +17,7 @@
   "bugs": {
     "url": "https://github.com/valentinogagliardi/minimal-react-webpack/issues"
   },
-  "homepage":
-    "https://github.com/valentinogagliardi/minimal-react-webpack#readme",
+  "homepage": "https://github.com/valentinogagliardi/minimal-react-webpack#readme",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.2",
